@@ -8,6 +8,7 @@ namespace DotnetTestApp.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
+	// This line is for shwoing what type of wheather is
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
