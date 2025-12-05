@@ -10,6 +10,7 @@ namespace DotnetTestApp.Controllers
         {
 
 	// Asif
+	//Kamal
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
